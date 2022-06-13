@@ -1,0 +1,41 @@
+ #flame{
+    position: absolute;
+    bottom: 0%;
+    left: 72%;
+    padding: 166vh 210px 0 37px;
+    transform: translate(-90%,-30%);
+}
+     	
+    
+    #flame2{
+    position: absolute;
+    bottom: 0%;
+    left: 37%;
+    color: blueviolet;
+    padding: 160vh 118px 362px 37px;
+    
+    }
+
+    #flame3{
+    position: absolute;
+    bottom: 0%;
+    left: 49%;
+    color: blueviolet;
+    padding: 158vh 118px 294px 37px;
+    
+    }
+
+    #flame4{
+    position: absolute;
+    bottom: 0%;
+    left: 36%;
+    color: blueviolet;
+    padding: 158vh 118px 294px 37px;
+    
+    }
+    body{
+        background:#211;
+    }
+    img {
+        padding: 30vh 21px 0 19px;
+    }
